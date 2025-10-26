@@ -20,7 +20,7 @@ PICTURE_PATH      = "./Pictures/"
 GAN_PATH          = "./WavFiles/GAN/"
 
 #Label
-LABEL = "Violin_or_fiddle"
+LABEL = "sad"
 
 # Load 
 def load_train_data(input_length=AUDIO_SHAPE, label = LABEL):
