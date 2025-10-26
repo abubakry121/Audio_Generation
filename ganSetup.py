@@ -14,7 +14,7 @@ ENCODE_SIZE = NOISE_DIM
 DENSE_SIZE = 2100
 
 # Paths
-DATASET_PATH      = "../../Datasets/freesound-audio-tagging/"
+DATASET_PATH      = "/content/drive/MyDrive/STARGAN/RAVDESS_Dataset"
 AUTO_ENCODER_PATH = "./WavFiles/Autoencoder/"
 PICTURE_PATH      = "./Pictures/"
 GAN_PATH          = "./WavFiles/GAN/"
