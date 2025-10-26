@@ -11,7 +11,7 @@ from ganModels import *
 from ganSetup import *
 
 class AudioGAN:
-    def __init__(self, label="Saxophone"):
+    def __init__(self, label="happy"):
 
         # Generate models
         self.enc = encoder(AUDIO_SHAPE, ENCODE_SIZE)
